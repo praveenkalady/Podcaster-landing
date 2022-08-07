@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Nanum+Gothic&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat Alternates', sans-serif;;
+}
+
+:root {
+    --background-color: #F7EDE8;
+    --primary-color: #CD4631;
+    --secondary-color: #000000;
+    --glacier: #81ADC8;
+    --grey: #4D4D4D;
+}
